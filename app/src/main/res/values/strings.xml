@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GagarinovLU_PR-33_2</string>
+    <string name="converter">Конвертер единиц информации</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="start">Начать</string>
+    <string name="error_empty_fields">Пожалуйста, заполните поля логин и пароль!</string>
+    <string name="error_not_correct_fields">Логин или пароль не подходит!</string>
+    <string name="choice">Выбор единиц информации</string>
+    <string name="iz">Из</string>
+    <string name="v">В</string>
+    <string name="enter_digit">Введите число</string>
+    <string name="result">Результат</string>
+    <string name="entered_digit">Введенное число</string>
+</resources>
